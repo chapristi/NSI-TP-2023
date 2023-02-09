@@ -36,3 +36,5 @@ def ajoute(indice, element, liste):
         L[nbre_elts] = element
     return L
 print(ajoute(1, 4, [7, 8, 9]))
+print(ajoute(3, 4, [7, 8, 9]))
+print(ajoute(4, 4, [7, 8, 9]))
